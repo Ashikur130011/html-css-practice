@@ -1,0 +1,22 @@
+nav > ul > li{
+    display: inline;
+    margin-right: 10px;
+}
+nav li > a{
+    text-decoration: none;
+} 
+figure{
+    background-color: rgb(241, 232, 227);
+    width: 400px;
+    padding: 10px;
+}
+figure img{
+    width: 100%;
+}
+figure figcaption{
+    text-align: center;
+    color: rgb(248, 246, 246);
+    font-weight: bolder;
+    background-color: rgba(243, 146, 19, 0.89);
+    padding: 3px;
+}
