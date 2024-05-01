@@ -20,3 +20,10 @@ figure figcaption{
     background-color: rgba(243, 146, 19, 0.89);
     padding: 3px;
 }
+
+footer p{
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px;
+}
